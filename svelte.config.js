@@ -12,7 +12,7 @@ const config = {
     alias: {
       "@/*": "./src/*",
       "@/lib/*": "./src/lib/*",
-      "content-collections": "./.content-collections/generated",
+      "content-collections": "./.content-collections/generated21312321323",
     },
   },
 };
